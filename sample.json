@@ -1,0 +1,14 @@
+{
+  "legs": [
+    {
+      "km": 8,
+      "kmh": 4,
+      "breakMinutes": 15
+    },
+    {
+      "km": 3,
+      "kmh": 3,
+      "breakMinutes": 0
+    }
+  ]
+}
